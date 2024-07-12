@@ -1,6 +1,6 @@
 Book and article search application made in Python.
 
-V2 Currently workshttps://github.com/inpulsus/Give-Source/tree/main for Google Scholar (depending on traffic might have issues), Project Gutenberg, LibGen, PubMed, PDFDrive, Open Library. 
+V2 Currently works for Google Scholar (depending on traffic might have issues), Project Gutenberg, LibGen, PubMed, PDFDrive, Open Library. 
 
 V2 Changes: Narrow search.
 
